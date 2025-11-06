@@ -15,7 +15,8 @@ Overview:
 This project implements a multi-client communication system using Python’s built-in socket library.
 It allows multiple clients to connect simultaneously to a central server, send and receive chat messages,
 and transfer text data over a TCP connection. The system was developed as part of a networking and systems
-programming project to explore client-server architectures, concurrency, and message handling.
+programming project to explore client-server architectures, concurrency, and message handling. 
+IF YOU  ARE DEMOING RUN CLIENT SIDE FIRST.
 
 Features:
 ---------
